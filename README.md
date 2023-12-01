@@ -1,7 +1,7 @@
 ### <h1>Hi, I'm Kopia, an <a href="https://linkedin.com/in/kopiajackson">IT Professional<a/>👋</h1>
 
-<!--
-**KopiaJ84/KopiaJ84** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h2>👨‍💻 Information Technology Projects:</h2>
+
 
 Here are some ideas to get you started:
 
